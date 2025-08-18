@@ -1,6 +1,8 @@
-# Hi there!
+# Hi there!😉
 
-## My stack
+## My stack 👨‍💻
+[![Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
+
 - Kotlin, Java
 - UI: Jetpack Compose, Material 3, XML
 - Architecture: MVP, MVVM, Single Activity, Fragments
