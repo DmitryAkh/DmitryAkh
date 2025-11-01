@@ -1,5 +1,9 @@
 # Hi there!😉
 
+I am an android developer from Nizhny Novgorod, Russia.
+I never cease to enjoy it when my code turns into something that can be touched with your fingertips.
+I dream of conquering all the best ski slopes in the world.
+
 ## My stack 👨‍💻
 [![Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
 
