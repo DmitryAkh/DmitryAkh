@@ -1,6 +1,6 @@
 # Hi there!😉
 
-I am an android developer from Nizhny Novgorod, Russia 🏞️
+I am an Android developer from Nizhny Novgorod, Russia 🏞️
 
 I never cease to enjoy it when my code 👨‍💻 turns into something that can be touched with your fingertips 📲 🤳
 
