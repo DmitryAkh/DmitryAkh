@@ -11,11 +11,12 @@ I dream of conquering all the best ski slopes in the world 🏂🏔️
 
 - Kotlin, Java
 - Android SDK
-- UI: Jetpack Compose, Material 3, XML
+- UI: Jetpack Compose, Material 3, XML, Data Binding
 - Architecture: MVP, MVVM, Single Activity, Fragments
-- Nav: Jetpack Navigation Component, Jetpack Navigation for Compose
+- Nav: Jetpack Navigation Component, Jetpack Navigation for Compose, Fragment Manager
 - Async: Coroutines, Flow, RxJava ,LiveData, StateFlow
-- DI: Koin, Hilt
-- Data: SQLite, Room, Shared Preferences
+- DI: Koin, Dagger, Hilt
+- Data: SQLite, Room, Shared Preferences, Data Store
 - Network: Retrofit2, OkHttp
 - Tools: Git, CI/CD, Code Review
+- Android Components: Services, Broadcast Receivers
