@@ -19,4 +19,4 @@ I dream of conquering all the best ski slopes in the world 🏂🏔️
 - Data: SQLite, Room, Shared Preferences, Data Store
 - Network: Retrofit2, OkHttp
 - Tools: Git, CI/CD, Code Review
-- Android Components: Services, BroadcastReceiver, NotificationManager
+- Android Components: Services, BroadcastReceiver, NotificationManager, WorkManager
