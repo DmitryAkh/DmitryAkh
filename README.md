@@ -15,7 +15,7 @@ I dream of conquering all the best ski slopes in the world 🏂🏔️
 - Architecture: MVP, MVVM, Single Activity, Fragments
 - Nav: Jetpack Navigation Component, Jetpack Navigation for Compose, Fragment Manager
 - Async: Coroutines, Flow, RxJava ,LiveData, StateFlow
-- DI: Koin, Dagger, Hilt
+- DI: Koin, Hilt
 - Data: SQLite, Room, Shared Preferences, Data Store
 - Network: Retrofit2, OkHttp
 - Tools: Git, CI/CD, Code Review
